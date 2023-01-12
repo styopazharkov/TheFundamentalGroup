@@ -12,8 +12,8 @@
     --navbar-bg-color: rgb(237, 237, 237);
     --navbar-desktop-hover-color: rgb(245, 245, 245);
     --navbar-desktop-selected-color: var(--main-bg-color);
-    --navbar-mobile-hover-color: rgb(223, 223, 223);
-    --navbar-mobile-selected-color: rgb(230, 240, 240);
+    --navbar-mobile-hover-color: rgb(237, 237, 237);
+    --navbar-mobile-selected-color: rgb(245, 245, 245);
   }
 
 * {
