@@ -10,7 +10,7 @@
 :root {
     --main-bg-color: white;
     --navbar-bg-color: rgb(237, 237, 237);
-    --navbar-desktop-hover-color: rgb(245, 245, 245);
+    --navbar-desktop-hover-color: rgb(248, 248, 248);
     --navbar-desktop-selected-color: var(--main-bg-color);
     --navbar-mobile-hover-color: rgb(237, 237, 237);
     --navbar-mobile-selected-color: rgb(245, 245, 245);
@@ -72,7 +72,23 @@ body{
     height: 16px;
 }
 
+.introdiv {
+    margin: auto;
+    margin-top: 50px;
+    width: 100%;
+    max-width: 400px;
+}
+
+.intro {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 @media screen and (min-width: 600px) {
+    .introdiv {
+        max-width: 1000px;
+    }
+
     .navbarpad{
         height: 40px;
     }
