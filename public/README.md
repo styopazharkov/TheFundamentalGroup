@@ -1,3 +1,3 @@
-# styopazharkov.github.io
+# thefundamentalgroup.wiki
 
-This rebo is just for demonstration purposes. It will be deleted soon. See the TheFundamentalGroup repo for development of the site.
+This repo is for the development of the Fundamental Group wiki.
