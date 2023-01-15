@@ -75,14 +75,9 @@ body{
 .introdiv {
     margin: auto;
     margin-top: 50px;
-    width: 100%;
+    width: 80%;
     max-width: 400px;
-}
-
-.intro{
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 100px;
 }
 
 @media screen and (min-width: 600px) {
