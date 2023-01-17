@@ -72,12 +72,52 @@ body{
     height: 16px;
 }
 
+/* TEXT */
 .introdiv {
     margin: auto;
     margin-top: 50px;
     width: 80%;
     max-width: 400px;
     margin-bottom: 100px;
+}
+
+/* COLLAPSIBLES */
+.collapsible {
+    background-color: #666;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 20px;
+    font-family:  'Computer Modern Serif', sans-serif;
+}
+  
+.active, .collapsible:hover {
+    background-color: #888;
+}
+  
+.collapsible:after {
+    content: '\002B';
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+  
+.active:after {
+    content: "\2013";
+}
+  
+.content {
+    padding: 0 18px;
+    font-size: 20px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-out;
+    background-color: #f1f1f1;
 }
 
 @media screen and (min-width: 600px) {
