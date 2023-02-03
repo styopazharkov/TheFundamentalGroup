@@ -1,0 +1,46 @@
+Classes
+
+X How many math classes should I take per quarter?
+X Should I take the "applied" version of a class or the "theoretical" version of a class?
+X Can I/should I take graduate classes?
+
+X Can I take X without taking Y?
+X Which class should I take after X?
+X What do the numbers of the math classes mean?
+Do I have to attend lecture to succeed in X class?
+Is X class or Y prof easy?
+Which classes outside of the math department count for the major?
+
+What are the "best" math classes at Stanford?
+
+Can I switch from CM to DM?
+Can I take 62/63 without taking 61?
+
+Learning Math
+ 
+What strategy should I use when reading textbooks?
+Should I do the exercises in textbooks?
+How should I take notes in lecture?
+How should I write my problem sets?
+How can I get started with LaTeX?
+What are the best ways to study for math exams?
+How do I get started with proof-based problems?
+
+Careers and Graduate School
+ 
+What are the most popular careers after a math major?
+How is grad school different from undergrad in math?
+Should I go to grad school?
+How should I prepare to grad school (in terms of class schedule, studying, etc.)?
+How should I choose where to go for grad school?
+What is the best way to get fee waivers for grad school?
+Should I take the GRE/Math Subject GRE?
+
+Research
+ 
+What is the best way to find a professor to do research with?
+How can I get funding to do research?
+I don't have a set "area" of math that I'm specializing in yet. Can I still do research?
+What is an REU? Who can do them?
+What should I keep in mind when applying to REUs?
+How much research am I expected to do by the time I graduate?
